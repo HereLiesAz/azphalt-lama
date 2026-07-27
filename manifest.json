@@ -4,10 +4,10 @@
   "name": "LaMa",
   "version": "1.0.0",
   "kind": "asset",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "compat": ">=0.1",
   "description": "Resolution-robust image inpainting that fills large masked regions with coherent structure. Uses: object / distraction removal; watermark & logo removal; generative background fill; photo restoration.",
-  "author": "azphalt",
+  "author": "HereLiesAz",
   "homepage": "https://github.com/HereLiesAz/azphalt-lama",
   "assets": [
     {
@@ -22,6 +22,5 @@
         "restoration"
       ]
     }
-  ],
-  "files": {}
+  ]
 }
